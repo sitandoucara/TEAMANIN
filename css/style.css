@@ -146,7 +146,6 @@ nav a:hover {
 .header_container {
   height: 100vh;
   display: flex;
-
   transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
@@ -292,7 +291,7 @@ nav a:hover {
 }
 
 .btn1:hover {
-  color: black;
+  color: #2b2c56;
   background: white;
 }
 
