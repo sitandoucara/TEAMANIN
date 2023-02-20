@@ -1,3 +1,4 @@
+//animation
 const slides = document.querySelectorAll(".container_img");
 const slidesContainer = document.querySelector(".header_container");
 const bulletsContainer = document.querySelector(".bullets");
@@ -36,4 +37,4 @@ window.setInterval(() => {
   console.log("ok");
 }, 3000);
 
-//Cloner le premier element et le mettre à la fin
+//
