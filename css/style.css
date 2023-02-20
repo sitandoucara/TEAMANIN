@@ -799,7 +799,7 @@ input[type="submit"]:hover {
 .accordion-item-header {
   display: grid;
   gap: 10px;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: 1.2fr 1fr;
   position: relative;
   cursor: pointer;
 }
