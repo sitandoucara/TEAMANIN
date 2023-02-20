@@ -852,8 +852,8 @@ input[type="submit"]:hover {
 .accord_item1 {
   display: grid;
   row-gap: 10px;
-  justify-items: start;
-  align-items: start;
+  justify-items: stretch;
+  align-items: baseline;
 }
 
 .flex_acc {
@@ -949,7 +949,7 @@ input[type="submit"]:hover {
 
 .item {
   background-color: var(--back_color2);
-  padding: 30px 50px;
+  padding: 14px 16px;
   line-height: 30px;
   border-radius: 6px;
 }
